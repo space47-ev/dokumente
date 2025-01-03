@@ -20,3 +20,11 @@ Quelle: [beitragsordnung.tex](beitragsordnung.tex)
 PDF: [beitragsordnung.pdf](beitragsordnung.pdf)
 
 Webversion: [https://space47.de/beitragsordnung/](https://space47.de/beitragsordnung/)
+
+## Vereinsordnung
+
+Quelle: [vereinsordnung.tex](vereinsordnung.tex)
+
+PDF: [vereinsordnung.pdf](vereinsordnung.pdf)
+
+Webversion: [https://space47.de/vereinsordnung/](https://space47.de/vereinsordnung/)
