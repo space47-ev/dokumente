@@ -12,3 +12,11 @@ Quelle: [satzung.tex](satzung.tex)
 PDF: [satzung.pdf](satzung.pdf)
 
 Webversion: [https://space47.de/satzung/](https://space47.de/satzung/)
+
+## Beitragsordnung
+
+Quelle: [beitragsordnung.tex](beitragsordnung.tex)
+
+PDF: [beitragsordnung.pdf](beitragsordnung.pdf)
+
+Webversion: [https://space47.de/beitragsordnung/](https://space47.de/beitragsordnung/)
